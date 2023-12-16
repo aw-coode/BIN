@@ -2,7 +2,7 @@
 
 - apt update && apt upgrade 
 - apt install php php-dev php-cli php-curl git nano
-- git clone https://github.com/kyo1337/RandomCCNumber
+- git clone https://github.com/aw-coode/BIN
 - cd BIN
 - php AW-BIN.php
 
