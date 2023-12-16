@@ -7,10 +7,10 @@
 - php AW-BIN.php
 ```
 
-# Petunjuk Pengguna
-- Count : [Jumlah]
-- Delay : [Jeda Waktu]
-
+##Telegram
+</b>
+<p align="center"><a href="https://t.me/AWCODE3"> 
+<img src="https://graph.org/file/d1018753d9a85f46c2fe4.jpg" width="320" height="38.45"/></a></p>
 # Note
 -https://t.me/AWCODE3
 
